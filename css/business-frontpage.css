@@ -22,7 +22,7 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 .business-header {
     font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
-    height: 400px;
+    height: 25%;
     background: url("../pics/bagels2.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
